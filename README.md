@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/carlos-zillig-54b5b3230/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloszillig&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloszillig&layout=compact&langs_count=7&theme=aura"/>
+  <img height="180em" width="1000em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloszillig&layout=compact&langs_count=7&theme=aura"/>
 </div> 
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
