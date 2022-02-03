@@ -1,5 +1,5 @@
 ### Olá, um pouco sobre mim: 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/carlos-zillig-54b5b3230/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloszillig&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
 </div> 
