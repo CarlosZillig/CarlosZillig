@@ -25,7 +25,7 @@
 
 
 
-- Atualmente sou aluno do Programador BR e das aulas gratuitas do youtube! ✔
+- Atualmente sou aluno das aulas gratuitas do youtube! ✔
 - Não estou trabalhando no momento 😥
 - Meu linkedin > https://www.linkedin.com/in/carlos-zillig-54b5b3230/ 🏅
 
