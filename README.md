@@ -4,8 +4,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloszillig&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
 </div> 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Carlos-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
    <img align="center" alt="Carlos-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
@@ -21,8 +19,9 @@
 </div> 
  
  <li>Estudando todos os dias na Alura</li>
- <li>Faço alguns freelancer</li>
+ <li>Atualmente focado em ReactJS</li>
  <li>Linkedin: https://www.linkedin.com/in/carlos-zillig-54b5b3230/</li>
+ <li>Portfolio: https://carloszillig.github.io/Portfolio/ </li>
 
 
 
